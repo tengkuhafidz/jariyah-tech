@@ -11,7 +11,7 @@ export const projects = [
         image: "basic-budget-bot.jpg",
         description: "Your budget tracking assistant on Telegram ",
         tags: "Telegram Bot, Finance",
-        url: "https://basic-budget-bot.brizy.site"
+        url: "https://budget-bot.brizy.site"
     },
     {
         title: "🌐 Impacbit",
